@@ -2,7 +2,7 @@
 **Date of birth:** 3.10.1983  
 **Address:** Belarus, Minsk  
 **Phone number:** +375 44 712 86 29  
-**E-mail address:** alekseymedyshevski@gmail.com
+**E-mail address:** alekseymedushevski@gmail.com
 
 ## Profile:
 I am responsible and hardworking junior IT person. I am able to work well. I am able to work in a team.  I am able to work well under pressure and adhere to strict deadlines.
