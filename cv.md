@@ -36,8 +36,8 @@ Get a job as a junior Frontend developer and gain new knowledge and experience. 
 * **Graphics** (Photoshop, Figma, AutoCad)
 
 ## Languages
-* English
-* Russian
+* English (Basic)
+* Russian (Fluent)
 
 ## Strengths
 Communication Skills
