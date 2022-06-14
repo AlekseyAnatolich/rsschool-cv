@@ -5,3 +5,84 @@
 body{
     background: #E5E5E5;
 }
+ul {
+    list-style: none;
+}
+.container{
+    max-width: 960px;
+    min-width: 320px;
+    margin: 0 auto;
+    background: #E0E0BE;
+}
+.header{
+    width: 100%;
+    border-bottom:rgba(0, 0, 0, 0.1) solid 1px;
+}
+.header-title{
+    text-align: center;
+    padding-top: 25px;
+    margin-bottom: 50px;
+}
+.header-info{
+    line-height: 40px;
+    letter-spacing: 0.03em;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    margin-bottom: 35px;
+}
+.header-info h2{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.header-img{
+    width: 250px;
+    height: 320px;
+
+}
+.header-note{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.main-content{
+    padding-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-bottom:rgba(0, 0, 0, 0.1) solid 1px;
+}
+.main-content div{
+    max-width: 500px;
+    min-width: 320px;
+}
+.main-content h2{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.main-content h3,
+.main-content h4{
+    margin-bottom: 15px;
+}
+
+.main-content p{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+.main-content li{
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-logo{
+    width: 60px;
+    height: 60px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
